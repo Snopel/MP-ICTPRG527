@@ -1,0 +1,13 @@
+C:\Users\s1509092\source\repos\SimpleCalcTest\SimpleCalcTest\bin\Debug\netcoreapp3.1\SimpleCalcTest.exe
+C:\Users\s1509092\source\repos\SimpleCalcTest\SimpleCalcTest\bin\Debug\netcoreapp3.1\SimpleCalcTest.deps.json
+C:\Users\s1509092\source\repos\SimpleCalcTest\SimpleCalcTest\bin\Debug\netcoreapp3.1\SimpleCalcTest.runtimeconfig.json
+C:\Users\s1509092\source\repos\SimpleCalcTest\SimpleCalcTest\bin\Debug\netcoreapp3.1\SimpleCalcTest.runtimeconfig.dev.json
+C:\Users\s1509092\source\repos\SimpleCalcTest\SimpleCalcTest\bin\Debug\netcoreapp3.1\SimpleCalcTest.dll
+C:\Users\s1509092\source\repos\SimpleCalcTest\SimpleCalcTest\bin\Debug\netcoreapp3.1\SimpleCalcTest.pdb
+C:\Users\s1509092\source\repos\SimpleCalcTest\SimpleCalcTest\obj\Debug\netcoreapp3.1\SimpleCalcTest.csprojAssemblyReference.cache
+C:\Users\s1509092\source\repos\SimpleCalcTest\SimpleCalcTest\obj\Debug\netcoreapp3.1\SimpleCalcTest.AssemblyInfoInputs.cache
+C:\Users\s1509092\source\repos\SimpleCalcTest\SimpleCalcTest\obj\Debug\netcoreapp3.1\SimpleCalcTest.AssemblyInfo.cs
+C:\Users\s1509092\source\repos\SimpleCalcTest\SimpleCalcTest\obj\Debug\netcoreapp3.1\SimpleCalcTest.csproj.CoreCompileInputs.cache
+C:\Users\s1509092\source\repos\SimpleCalcTest\SimpleCalcTest\obj\Debug\netcoreapp3.1\SimpleCalcTest.dll
+C:\Users\s1509092\source\repos\SimpleCalcTest\SimpleCalcTest\obj\Debug\netcoreapp3.1\SimpleCalcTest.pdb
+C:\Users\s1509092\source\repos\SimpleCalcTest\SimpleCalcTest\obj\Debug\netcoreapp3.1\SimpleCalcTest.genruntimeconfig.cache
