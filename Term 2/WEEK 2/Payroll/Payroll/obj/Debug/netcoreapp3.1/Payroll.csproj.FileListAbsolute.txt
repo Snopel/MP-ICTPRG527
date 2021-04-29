@@ -1,0 +1,13 @@
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\Payroll\Payroll\bin\Debug\netcoreapp3.1\Payroll.exe
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\Payroll\Payroll\bin\Debug\netcoreapp3.1\Payroll.deps.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\Payroll\Payroll\bin\Debug\netcoreapp3.1\Payroll.runtimeconfig.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\Payroll\Payroll\bin\Debug\netcoreapp3.1\Payroll.runtimeconfig.dev.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\Payroll\Payroll\bin\Debug\netcoreapp3.1\Payroll.dll
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\Payroll\Payroll\bin\Debug\netcoreapp3.1\Payroll.pdb
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.csprojAssemblyReference.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.AssemblyInfoInputs.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.AssemblyInfo.cs
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.csproj.CoreCompileInputs.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.dll
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.pdb
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\Payroll\Payroll\obj\Debug\netcoreapp3.1\Payroll.genruntimeconfig.cache
