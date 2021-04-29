@@ -1,0 +1,12 @@
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\Initials\Initials\bin\Debug\netcoreapp3.1\Initials.exe
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\Initials\Initials\bin\Debug\netcoreapp3.1\Initials.deps.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\Initials\Initials\bin\Debug\netcoreapp3.1\Initials.runtimeconfig.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\Initials\Initials\bin\Debug\netcoreapp3.1\Initials.runtimeconfig.dev.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\Initials\Initials\bin\Debug\netcoreapp3.1\Initials.dll
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\Initials\Initials\bin\Debug\netcoreapp3.1\Initials.pdb
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\Initials\Initials\obj\Debug\netcoreapp3.1\Initials.AssemblyInfoInputs.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\Initials\Initials\obj\Debug\netcoreapp3.1\Initials.AssemblyInfo.cs
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\Initials\Initials\obj\Debug\netcoreapp3.1\Initials.csproj.CoreCompileInputs.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\Initials\Initials\obj\Debug\netcoreapp3.1\Initials.dll
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\Initials\Initials\obj\Debug\netcoreapp3.1\Initials.pdb
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\Initials\Initials\obj\Debug\netcoreapp3.1\Initials.genruntimeconfig.cache

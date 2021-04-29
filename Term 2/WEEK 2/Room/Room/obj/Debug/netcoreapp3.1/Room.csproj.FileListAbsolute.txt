@@ -1,0 +1,12 @@
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\Room\Room\bin\Debug\netcoreapp3.1\Room.exe
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\Room\Room\bin\Debug\netcoreapp3.1\Room.deps.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\Room\Room\bin\Debug\netcoreapp3.1\Room.runtimeconfig.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\Room\Room\bin\Debug\netcoreapp3.1\Room.runtimeconfig.dev.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\Room\Room\bin\Debug\netcoreapp3.1\Room.dll
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\Room\Room\bin\Debug\netcoreapp3.1\Room.pdb
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\Room\Room\obj\Debug\netcoreapp3.1\Room.AssemblyInfoInputs.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\Room\Room\obj\Debug\netcoreapp3.1\Room.AssemblyInfo.cs
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\Room\Room\obj\Debug\netcoreapp3.1\Room.csproj.CoreCompileInputs.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\Room\Room\obj\Debug\netcoreapp3.1\Room.dll
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\Room\Room\obj\Debug\netcoreapp3.1\Room.pdb
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\Room\Room\obj\Debug\netcoreapp3.1\Room.genruntimeconfig.cache

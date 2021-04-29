@@ -1,0 +1,12 @@
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\Carpet\Carpet\bin\Debug\netcoreapp3.1\Carpet.exe
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\Carpet\Carpet\bin\Debug\netcoreapp3.1\Carpet.deps.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\Carpet\Carpet\bin\Debug\netcoreapp3.1\Carpet.runtimeconfig.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\Carpet\Carpet\bin\Debug\netcoreapp3.1\Carpet.runtimeconfig.dev.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\Carpet\Carpet\bin\Debug\netcoreapp3.1\Carpet.dll
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\Carpet\Carpet\bin\Debug\netcoreapp3.1\Carpet.pdb
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\Carpet\Carpet\obj\Debug\netcoreapp3.1\Carpet.AssemblyInfoInputs.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\Carpet\Carpet\obj\Debug\netcoreapp3.1\Carpet.AssemblyInfo.cs
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\Carpet\Carpet\obj\Debug\netcoreapp3.1\Carpet.csproj.CoreCompileInputs.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\Carpet\Carpet\obj\Debug\netcoreapp3.1\Carpet.dll
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\Carpet\Carpet\obj\Debug\netcoreapp3.1\Carpet.pdb
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\Carpet\Carpet\obj\Debug\netcoreapp3.1\Carpet.genruntimeconfig.cache
