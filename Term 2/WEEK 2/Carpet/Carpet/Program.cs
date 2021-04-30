@@ -24,6 +24,7 @@ namespace Carpet
             carpetCost = Math.Round((area * cost), 2);
 
             Console.WriteLine("\nCarpet cost: $" + carpetCost);
+            Console.ReadLine();
         }
     }
 }

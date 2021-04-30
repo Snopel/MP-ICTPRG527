@@ -1,0 +1,13 @@
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\AverageWeight\AverageWeight\bin\Debug\netcoreapp3.1\AverageWeight.exe
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\AverageWeight\AverageWeight\bin\Debug\netcoreapp3.1\AverageWeight.deps.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\AverageWeight\AverageWeight\bin\Debug\netcoreapp3.1\AverageWeight.runtimeconfig.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\AverageWeight\AverageWeight\bin\Debug\netcoreapp3.1\AverageWeight.runtimeconfig.dev.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\AverageWeight\AverageWeight\bin\Debug\netcoreapp3.1\AverageWeight.dll
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\AverageWeight\AverageWeight\bin\Debug\netcoreapp3.1\AverageWeight.pdb
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\AverageWeight\AverageWeight\obj\Debug\netcoreapp3.1\AverageWeight.csprojAssemblyReference.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\AverageWeight\AverageWeight\obj\Debug\netcoreapp3.1\AverageWeight.AssemblyInfoInputs.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\AverageWeight\AverageWeight\obj\Debug\netcoreapp3.1\AverageWeight.AssemblyInfo.cs
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\AverageWeight\AverageWeight\obj\Debug\netcoreapp3.1\AverageWeight.csproj.CoreCompileInputs.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\AverageWeight\AverageWeight\obj\Debug\netcoreapp3.1\AverageWeight.dll
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\AverageWeight\AverageWeight\obj\Debug\netcoreapp3.1\AverageWeight.pdb
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\AverageWeight\AverageWeight\obj\Debug\netcoreapp3.1\AverageWeight.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\TicketNumber\TicketNumber\bin\Debug\netcoreapp3.1\TicketNumber.exe
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\TicketNumber\TicketNumber\bin\Debug\netcoreapp3.1\TicketNumber.deps.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\TicketNumber\TicketNumber\bin\Debug\netcoreapp3.1\TicketNumber.runtimeconfig.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\TicketNumber\TicketNumber\bin\Debug\netcoreapp3.1\TicketNumber.runtimeconfig.dev.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\TicketNumber\TicketNumber\bin\Debug\netcoreapp3.1\TicketNumber.dll
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\TicketNumber\TicketNumber\bin\Debug\netcoreapp3.1\TicketNumber.pdb
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\TicketNumber\TicketNumber\obj\Debug\netcoreapp3.1\TicketNumber.AssemblyInfoInputs.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\TicketNumber\TicketNumber\obj\Debug\netcoreapp3.1\TicketNumber.AssemblyInfo.cs
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\TicketNumber\TicketNumber\obj\Debug\netcoreapp3.1\TicketNumber.csproj.CoreCompileInputs.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\TicketNumber\TicketNumber\obj\Debug\netcoreapp3.1\TicketNumber.dll
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\TicketNumber\TicketNumber\obj\Debug\netcoreapp3.1\TicketNumber.pdb
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 2\TicketNumber\TicketNumber\obj\Debug\netcoreapp3.1\TicketNumber.genruntimeconfig.cache
