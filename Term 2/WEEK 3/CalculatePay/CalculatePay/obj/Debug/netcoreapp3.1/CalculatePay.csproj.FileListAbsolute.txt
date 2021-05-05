@@ -1,0 +1,13 @@
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\CalculatePay\CalculatePay\bin\Debug\netcoreapp3.1\CalculatePay.exe
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\CalculatePay\CalculatePay\bin\Debug\netcoreapp3.1\CalculatePay.deps.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\CalculatePay\CalculatePay\bin\Debug\netcoreapp3.1\CalculatePay.runtimeconfig.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\CalculatePay\CalculatePay\bin\Debug\netcoreapp3.1\CalculatePay.runtimeconfig.dev.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\CalculatePay\CalculatePay\bin\Debug\netcoreapp3.1\CalculatePay.dll
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\CalculatePay\CalculatePay\bin\Debug\netcoreapp3.1\CalculatePay.pdb
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\CalculatePay\CalculatePay\obj\Debug\netcoreapp3.1\CalculatePay.AssemblyInfoInputs.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\CalculatePay\CalculatePay\obj\Debug\netcoreapp3.1\CalculatePay.AssemblyInfo.cs
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\CalculatePay\CalculatePay\obj\Debug\netcoreapp3.1\CalculatePay.csproj.CoreCompileInputs.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\CalculatePay\CalculatePay\obj\Debug\netcoreapp3.1\CalculatePay.dll
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\CalculatePay\CalculatePay\obj\Debug\netcoreapp3.1\CalculatePay.pdb
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\CalculatePay\CalculatePay\obj\Debug\netcoreapp3.1\CalculatePay.genruntimeconfig.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\CalculatePay\CalculatePay\obj\Debug\netcoreapp3.1\CalculatePay.csprojAssemblyReference.cache

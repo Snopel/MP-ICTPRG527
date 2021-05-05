@@ -1,0 +1,13 @@
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\TwoNumbers\TwoNumbers\bin\Debug\netcoreapp3.1\TwoNumbers.exe
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\TwoNumbers\TwoNumbers\bin\Debug\netcoreapp3.1\TwoNumbers.deps.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\TwoNumbers\TwoNumbers\bin\Debug\netcoreapp3.1\TwoNumbers.runtimeconfig.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\TwoNumbers\TwoNumbers\bin\Debug\netcoreapp3.1\TwoNumbers.runtimeconfig.dev.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\TwoNumbers\TwoNumbers\bin\Debug\netcoreapp3.1\TwoNumbers.dll
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\TwoNumbers\TwoNumbers\bin\Debug\netcoreapp3.1\TwoNumbers.pdb
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\TwoNumbers\TwoNumbers\obj\Debug\netcoreapp3.1\TwoNumbers.csprojAssemblyReference.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\TwoNumbers\TwoNumbers\obj\Debug\netcoreapp3.1\TwoNumbers.AssemblyInfoInputs.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\TwoNumbers\TwoNumbers\obj\Debug\netcoreapp3.1\TwoNumbers.AssemblyInfo.cs
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\TwoNumbers\TwoNumbers\obj\Debug\netcoreapp3.1\TwoNumbers.csproj.CoreCompileInputs.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\TwoNumbers\TwoNumbers\obj\Debug\netcoreapp3.1\TwoNumbers.dll
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\TwoNumbers\TwoNumbers\obj\Debug\netcoreapp3.1\TwoNumbers.pdb
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\TwoNumbers\TwoNumbers\obj\Debug\netcoreapp3.1\TwoNumbers.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\Sum\Sum\bin\Debug\netcoreapp3.1\Sum.exe
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\Sum\Sum\bin\Debug\netcoreapp3.1\Sum.deps.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\Sum\Sum\bin\Debug\netcoreapp3.1\Sum.runtimeconfig.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\Sum\Sum\bin\Debug\netcoreapp3.1\Sum.runtimeconfig.dev.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\Sum\Sum\bin\Debug\netcoreapp3.1\Sum.dll
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\Sum\Sum\bin\Debug\netcoreapp3.1\Sum.pdb
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\Sum\Sum\obj\Debug\netcoreapp3.1\Sum.AssemblyInfoInputs.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\Sum\Sum\obj\Debug\netcoreapp3.1\Sum.AssemblyInfo.cs
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\Sum\Sum\obj\Debug\netcoreapp3.1\Sum.csproj.CoreCompileInputs.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\Sum\Sum\obj\Debug\netcoreapp3.1\Sum.dll
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\Sum\Sum\obj\Debug\netcoreapp3.1\Sum.pdb
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\Sum\Sum\obj\Debug\netcoreapp3.1\Sum.genruntimeconfig.cache

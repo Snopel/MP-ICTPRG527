@@ -1,0 +1,13 @@
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\AccountBalance\AccountBalance\obj\Debug\netcoreapp3.1\AccountBalance.csprojAssemblyReference.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\AccountBalance\AccountBalance\obj\Debug\netcoreapp3.1\AccountBalance.AssemblyInfoInputs.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\AccountBalance\AccountBalance\obj\Debug\netcoreapp3.1\AccountBalance.AssemblyInfo.cs
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\AccountBalance\AccountBalance\obj\Debug\netcoreapp3.1\AccountBalance.csproj.CoreCompileInputs.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\AccountBalance\AccountBalance\bin\Debug\netcoreapp3.1\AccountBalance.exe
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\AccountBalance\AccountBalance\bin\Debug\netcoreapp3.1\AccountBalance.deps.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\AccountBalance\AccountBalance\bin\Debug\netcoreapp3.1\AccountBalance.runtimeconfig.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\AccountBalance\AccountBalance\bin\Debug\netcoreapp3.1\AccountBalance.runtimeconfig.dev.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\AccountBalance\AccountBalance\bin\Debug\netcoreapp3.1\AccountBalance.dll
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\AccountBalance\AccountBalance\bin\Debug\netcoreapp3.1\AccountBalance.pdb
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\AccountBalance\AccountBalance\obj\Debug\netcoreapp3.1\AccountBalance.dll
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\AccountBalance\AccountBalance\obj\Debug\netcoreapp3.1\AccountBalance.pdb
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\AccountBalance\AccountBalance\obj\Debug\netcoreapp3.1\AccountBalance.genruntimeconfig.cache

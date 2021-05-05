@@ -1,0 +1,13 @@
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\Balance\Balance\bin\Debug\netcoreapp3.1\Balance.exe
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\Balance\Balance\bin\Debug\netcoreapp3.1\Balance.deps.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\Balance\Balance\bin\Debug\netcoreapp3.1\Balance.runtimeconfig.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\Balance\Balance\bin\Debug\netcoreapp3.1\Balance.runtimeconfig.dev.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\Balance\Balance\bin\Debug\netcoreapp3.1\Balance.dll
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\Balance\Balance\bin\Debug\netcoreapp3.1\Balance.pdb
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\Balance\Balance\obj\Debug\netcoreapp3.1\Balance.csprojAssemblyReference.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\Balance\Balance\obj\Debug\netcoreapp3.1\Balance.AssemblyInfoInputs.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\Balance\Balance\obj\Debug\netcoreapp3.1\Balance.AssemblyInfo.cs
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\Balance\Balance\obj\Debug\netcoreapp3.1\Balance.csproj.CoreCompileInputs.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\Balance\Balance\obj\Debug\netcoreapp3.1\Balance.dll
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\Balance\Balance\obj\Debug\netcoreapp3.1\Balance.pdb
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\Balance\Balance\obj\Debug\netcoreapp3.1\Balance.genruntimeconfig.cache
