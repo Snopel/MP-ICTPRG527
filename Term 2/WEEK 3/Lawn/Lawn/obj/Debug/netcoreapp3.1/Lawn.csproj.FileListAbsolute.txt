@@ -1,0 +1,13 @@
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\Lawn\Lawn\bin\Debug\netcoreapp3.1\Lawn.exe
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\Lawn\Lawn\bin\Debug\netcoreapp3.1\Lawn.deps.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\Lawn\Lawn\bin\Debug\netcoreapp3.1\Lawn.runtimeconfig.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\Lawn\Lawn\bin\Debug\netcoreapp3.1\Lawn.runtimeconfig.dev.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\Lawn\Lawn\bin\Debug\netcoreapp3.1\Lawn.dll
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\Lawn\Lawn\bin\Debug\netcoreapp3.1\Lawn.pdb
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\Lawn\Lawn\obj\Debug\netcoreapp3.1\Lawn.csprojAssemblyReference.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\Lawn\Lawn\obj\Debug\netcoreapp3.1\Lawn.AssemblyInfoInputs.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\Lawn\Lawn\obj\Debug\netcoreapp3.1\Lawn.AssemblyInfo.cs
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\Lawn\Lawn\obj\Debug\netcoreapp3.1\Lawn.csproj.CoreCompileInputs.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\Lawn\Lawn\obj\Debug\netcoreapp3.1\Lawn.dll
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\Lawn\Lawn\obj\Debug\netcoreapp3.1\Lawn.pdb
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 3\Lawn\Lawn\obj\Debug\netcoreapp3.1\Lawn.genruntimeconfig.cache
