@@ -1,0 +1,13 @@
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\FlipCoin\FlipCoin\bin\Debug\netcoreapp3.1\FlipCoin.exe
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\FlipCoin\FlipCoin\bin\Debug\netcoreapp3.1\FlipCoin.deps.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\FlipCoin\FlipCoin\bin\Debug\netcoreapp3.1\FlipCoin.runtimeconfig.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\FlipCoin\FlipCoin\bin\Debug\netcoreapp3.1\FlipCoin.runtimeconfig.dev.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\FlipCoin\FlipCoin\bin\Debug\netcoreapp3.1\FlipCoin.dll
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\FlipCoin\FlipCoin\bin\Debug\netcoreapp3.1\FlipCoin.pdb
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\FlipCoin\FlipCoin\obj\Debug\netcoreapp3.1\FlipCoin.csprojAssemblyReference.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\FlipCoin\FlipCoin\obj\Debug\netcoreapp3.1\FlipCoin.AssemblyInfoInputs.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\FlipCoin\FlipCoin\obj\Debug\netcoreapp3.1\FlipCoin.AssemblyInfo.cs
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\FlipCoin\FlipCoin\obj\Debug\netcoreapp3.1\FlipCoin.csproj.CoreCompileInputs.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\FlipCoin\FlipCoin\obj\Debug\netcoreapp3.1\FlipCoin.dll
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\FlipCoin\FlipCoin\obj\Debug\netcoreapp3.1\FlipCoin.pdb
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\FlipCoin\FlipCoin\obj\Debug\netcoreapp3.1\FlipCoin.genruntimeconfig.cache
