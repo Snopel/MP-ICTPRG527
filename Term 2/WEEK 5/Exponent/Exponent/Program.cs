@@ -13,7 +13,7 @@ namespace Exponent
         //MAIN METHOD
         static void Main(string[] args)
         {
-            //Gather user input for a number
+            //Gather user input for a number/
             Console.Write("Enter a number: ");
 
             //Create an integer and assign this value from the user's input
@@ -40,8 +40,8 @@ namespace Exponent
         //CUBE METHOD
         static int cubeNum (int num)
         {
-            //Same as 'squareNum', except cubed
-            int cube = num * num * num;
+            //Reusing the 'squareNum' method and cubing it
+            int cube = squareNum(num) * num;
             return cube;
         }
     }
