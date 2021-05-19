@@ -1,0 +1,13 @@
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\Sum50\Sum50\bin\Debug\netcoreapp3.1\Sum50.exe
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\Sum50\Sum50\bin\Debug\netcoreapp3.1\Sum50.deps.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\Sum50\Sum50\bin\Debug\netcoreapp3.1\Sum50.runtimeconfig.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\Sum50\Sum50\bin\Debug\netcoreapp3.1\Sum50.runtimeconfig.dev.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\Sum50\Sum50\bin\Debug\netcoreapp3.1\Sum50.dll
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\Sum50\Sum50\bin\Debug\netcoreapp3.1\Sum50.pdb
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\Sum50\Sum50\obj\Debug\netcoreapp3.1\Sum50.AssemblyInfoInputs.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\Sum50\Sum50\obj\Debug\netcoreapp3.1\Sum50.AssemblyInfo.cs
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\Sum50\Sum50\obj\Debug\netcoreapp3.1\Sum50.csproj.CoreCompileInputs.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\Sum50\Sum50\obj\Debug\netcoreapp3.1\Sum50.dll
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\Sum50\Sum50\obj\Debug\netcoreapp3.1\Sum50.pdb
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\Sum50\Sum50\obj\Debug\netcoreapp3.1\Sum50.genruntimeconfig.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\Sum50\Sum50\obj\Debug\netcoreapp3.1\Sum50.csprojAssemblyReference.cache

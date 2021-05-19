@@ -1,0 +1,13 @@
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\Input123\Input123\bin\Debug\netcoreapp3.1\Input123.exe
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\Input123\Input123\bin\Debug\netcoreapp3.1\Input123.deps.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\Input123\Input123\bin\Debug\netcoreapp3.1\Input123.runtimeconfig.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\Input123\Input123\bin\Debug\netcoreapp3.1\Input123.runtimeconfig.dev.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\Input123\Input123\bin\Debug\netcoreapp3.1\Input123.dll
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\Input123\Input123\bin\Debug\netcoreapp3.1\Input123.pdb
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\Input123\Input123\obj\Debug\netcoreapp3.1\Input123.AssemblyInfoInputs.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\Input123\Input123\obj\Debug\netcoreapp3.1\Input123.AssemblyInfo.cs
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\Input123\Input123\obj\Debug\netcoreapp3.1\Input123.csproj.CoreCompileInputs.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\Input123\Input123\obj\Debug\netcoreapp3.1\Input123.dll
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\Input123\Input123\obj\Debug\netcoreapp3.1\Input123.pdb
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\Input123\Input123\obj\Debug\netcoreapp3.1\Input123.genruntimeconfig.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\Input123\Input123\obj\Debug\netcoreapp3.1\Input123.csprojAssemblyReference.cache

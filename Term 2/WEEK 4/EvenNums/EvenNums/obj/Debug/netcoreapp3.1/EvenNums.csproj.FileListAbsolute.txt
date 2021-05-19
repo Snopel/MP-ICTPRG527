@@ -1,0 +1,12 @@
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\EvenNums\EvenNums\bin\Debug\netcoreapp3.1\EvenNums.exe
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\EvenNums\EvenNums\bin\Debug\netcoreapp3.1\EvenNums.deps.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\EvenNums\EvenNums\bin\Debug\netcoreapp3.1\EvenNums.runtimeconfig.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\EvenNums\EvenNums\bin\Debug\netcoreapp3.1\EvenNums.runtimeconfig.dev.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\EvenNums\EvenNums\bin\Debug\netcoreapp3.1\EvenNums.dll
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\EvenNums\EvenNums\bin\Debug\netcoreapp3.1\EvenNums.pdb
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\EvenNums\EvenNums\obj\Debug\netcoreapp3.1\EvenNums.AssemblyInfoInputs.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\EvenNums\EvenNums\obj\Debug\netcoreapp3.1\EvenNums.AssemblyInfo.cs
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\EvenNums\EvenNums\obj\Debug\netcoreapp3.1\EvenNums.csproj.CoreCompileInputs.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\EvenNums\EvenNums\obj\Debug\netcoreapp3.1\EvenNums.dll
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\EvenNums\EvenNums\obj\Debug\netcoreapp3.1\EvenNums.pdb
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\EvenNums\EvenNums\obj\Debug\netcoreapp3.1\EvenNums.genruntimeconfig.cache

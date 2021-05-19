@@ -1,0 +1,12 @@
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\RelayRace\RelayRace\bin\Debug\netcoreapp3.1\RelayRace.exe
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\RelayRace\RelayRace\bin\Debug\netcoreapp3.1\RelayRace.deps.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\RelayRace\RelayRace\bin\Debug\netcoreapp3.1\RelayRace.runtimeconfig.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\RelayRace\RelayRace\bin\Debug\netcoreapp3.1\RelayRace.runtimeconfig.dev.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\RelayRace\RelayRace\bin\Debug\netcoreapp3.1\RelayRace.dll
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\RelayRace\RelayRace\bin\Debug\netcoreapp3.1\RelayRace.pdb
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\RelayRace\RelayRace\obj\Debug\netcoreapp3.1\RelayRace.AssemblyInfoInputs.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\RelayRace\RelayRace\obj\Debug\netcoreapp3.1\RelayRace.AssemblyInfo.cs
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\RelayRace\RelayRace\obj\Debug\netcoreapp3.1\RelayRace.csproj.CoreCompileInputs.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\RelayRace\RelayRace\obj\Debug\netcoreapp3.1\RelayRace.dll
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\RelayRace\RelayRace\obj\Debug\netcoreapp3.1\RelayRace.pdb
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\RelayRace\RelayRace\obj\Debug\netcoreapp3.1\RelayRace.genruntimeconfig.cache

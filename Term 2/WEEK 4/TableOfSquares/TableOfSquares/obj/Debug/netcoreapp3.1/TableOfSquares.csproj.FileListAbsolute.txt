@@ -1,0 +1,13 @@
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\TableOfSquares\TableOfSquares\bin\Debug\netcoreapp3.1\TableOfSquares.exe
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\TableOfSquares\TableOfSquares\bin\Debug\netcoreapp3.1\TableOfSquares.deps.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\TableOfSquares\TableOfSquares\bin\Debug\netcoreapp3.1\TableOfSquares.runtimeconfig.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\TableOfSquares\TableOfSquares\bin\Debug\netcoreapp3.1\TableOfSquares.runtimeconfig.dev.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\TableOfSquares\TableOfSquares\bin\Debug\netcoreapp3.1\TableOfSquares.dll
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\TableOfSquares\TableOfSquares\bin\Debug\netcoreapp3.1\TableOfSquares.pdb
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\TableOfSquares\TableOfSquares\obj\Debug\netcoreapp3.1\TableOfSquares.csprojAssemblyReference.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\TableOfSquares\TableOfSquares\obj\Debug\netcoreapp3.1\TableOfSquares.AssemblyInfoInputs.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\TableOfSquares\TableOfSquares\obj\Debug\netcoreapp3.1\TableOfSquares.AssemblyInfo.cs
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\TableOfSquares\TableOfSquares\obj\Debug\netcoreapp3.1\TableOfSquares.csproj.CoreCompileInputs.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\TableOfSquares\TableOfSquares\obj\Debug\netcoreapp3.1\TableOfSquares.dll
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\TableOfSquares\TableOfSquares\obj\Debug\netcoreapp3.1\TableOfSquares.pdb
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 4\TableOfSquares\TableOfSquares\obj\Debug\netcoreapp3.1\TableOfSquares.genruntimeconfig.cache
