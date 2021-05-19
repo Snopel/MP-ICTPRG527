@@ -1,0 +1,13 @@
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 5\Exponent\Exponent\bin\Debug\netcoreapp3.1\Exponent.exe
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 5\Exponent\Exponent\bin\Debug\netcoreapp3.1\Exponent.deps.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 5\Exponent\Exponent\bin\Debug\netcoreapp3.1\Exponent.runtimeconfig.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 5\Exponent\Exponent\bin\Debug\netcoreapp3.1\Exponent.runtimeconfig.dev.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 5\Exponent\Exponent\bin\Debug\netcoreapp3.1\Exponent.dll
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 5\Exponent\Exponent\bin\Debug\netcoreapp3.1\Exponent.pdb
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 5\Exponent\Exponent\obj\Debug\netcoreapp3.1\Exponent.csprojAssemblyReference.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 5\Exponent\Exponent\obj\Debug\netcoreapp3.1\Exponent.AssemblyInfoInputs.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 5\Exponent\Exponent\obj\Debug\netcoreapp3.1\Exponent.AssemblyInfo.cs
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 5\Exponent\Exponent\obj\Debug\netcoreapp3.1\Exponent.csproj.CoreCompileInputs.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 5\Exponent\Exponent\obj\Debug\netcoreapp3.1\Exponent.dll
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 5\Exponent\Exponent\obj\Debug\netcoreapp3.1\Exponent.pdb
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 5\Exponent\Exponent\obj\Debug\netcoreapp3.1\Exponent.genruntimeconfig.cache
