@@ -1,0 +1,15 @@
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 6\ListFormatEx\ListFormatEx\bin\Debug\ListFormatEx.exe.config
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 6\ListFormatEx\ListFormatEx\bin\Debug\ListFormatEx.exe
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 6\ListFormatEx\ListFormatEx\bin\Debug\ListFormatEx.pdb
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 6\ListFormatEx\ListFormatEx\obj\Debug\ListFormatEx.csprojAssemblyReference.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 6\ListFormatEx\ListFormatEx\obj\Debug\MainWindow.g.cs
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 6\ListFormatEx\ListFormatEx\obj\Debug\App.g.cs
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 6\ListFormatEx\ListFormatEx\obj\Debug\ListFormatEx_MarkupCompile.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 6\ListFormatEx\ListFormatEx\obj\Debug\ListFormatEx_MarkupCompile.lref
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 6\ListFormatEx\ListFormatEx\obj\Debug\MainWindow.baml
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 6\ListFormatEx\ListFormatEx\obj\Debug\ListFormatEx.g.resources
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 6\ListFormatEx\ListFormatEx\obj\Debug\ListFormatEx.Properties.Resources.resources
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 6\ListFormatEx\ListFormatEx\obj\Debug\ListFormatEx.csproj.GenerateResource.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 6\ListFormatEx\ListFormatEx\obj\Debug\ListFormatEx.csproj.CoreCompileInputs.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 6\ListFormatEx\ListFormatEx\obj\Debug\ListFormatEx.exe
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 6\ListFormatEx\ListFormatEx\obj\Debug\ListFormatEx.pdb

@@ -1,0 +1,15 @@
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 6\FtoC\FtoC\bin\Debug\FtoC.exe.config
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 6\FtoC\FtoC\bin\Debug\FtoC.exe
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 6\FtoC\FtoC\bin\Debug\FtoC.pdb
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 6\FtoC\FtoC\obj\Debug\FtoC.csprojAssemblyReference.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 6\FtoC\FtoC\obj\Debug\MainWindow.g.cs
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 6\FtoC\FtoC\obj\Debug\App.g.cs
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 6\FtoC\FtoC\obj\Debug\FtoC_MarkupCompile.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 6\FtoC\FtoC\obj\Debug\FtoC_MarkupCompile.lref
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 6\FtoC\FtoC\obj\Debug\MainWindow.baml
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 6\FtoC\FtoC\obj\Debug\FtoC.g.resources
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 6\FtoC\FtoC\obj\Debug\FtoC.Properties.Resources.resources
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 6\FtoC\FtoC\obj\Debug\FtoC.csproj.GenerateResource.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 6\FtoC\FtoC\obj\Debug\FtoC.csproj.CoreCompileInputs.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 6\FtoC\FtoC\obj\Debug\FtoC.exe
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 6\FtoC\FtoC\obj\Debug\FtoC.pdb

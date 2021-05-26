@@ -1,0 +1,13 @@
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\Self Study\SubnetMask\SubnetMask\bin\Debug\netcoreapp3.1\SubnetMask.exe
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\Self Study\SubnetMask\SubnetMask\bin\Debug\netcoreapp3.1\SubnetMask.deps.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\Self Study\SubnetMask\SubnetMask\bin\Debug\netcoreapp3.1\SubnetMask.runtimeconfig.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\Self Study\SubnetMask\SubnetMask\bin\Debug\netcoreapp3.1\SubnetMask.runtimeconfig.dev.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\Self Study\SubnetMask\SubnetMask\bin\Debug\netcoreapp3.1\SubnetMask.dll
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\Self Study\SubnetMask\SubnetMask\bin\Debug\netcoreapp3.1\SubnetMask.pdb
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\Self Study\SubnetMask\SubnetMask\obj\Debug\netcoreapp3.1\SubnetMask.csprojAssemblyReference.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\Self Study\SubnetMask\SubnetMask\obj\Debug\netcoreapp3.1\SubnetMask.AssemblyInfoInputs.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\Self Study\SubnetMask\SubnetMask\obj\Debug\netcoreapp3.1\SubnetMask.AssemblyInfo.cs
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\Self Study\SubnetMask\SubnetMask\obj\Debug\netcoreapp3.1\SubnetMask.csproj.CoreCompileInputs.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\Self Study\SubnetMask\SubnetMask\obj\Debug\netcoreapp3.1\SubnetMask.dll
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\Self Study\SubnetMask\SubnetMask\obj\Debug\netcoreapp3.1\SubnetMask.pdb
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\Self Study\SubnetMask\SubnetMask\obj\Debug\netcoreapp3.1\SubnetMask.genruntimeconfig.cache

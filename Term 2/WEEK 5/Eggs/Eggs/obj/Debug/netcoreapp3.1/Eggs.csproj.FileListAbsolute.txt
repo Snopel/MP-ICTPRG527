@@ -1,0 +1,13 @@
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 5\Eggs\Eggs\bin\Debug\netcoreapp3.1\Eggs.exe
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 5\Eggs\Eggs\bin\Debug\netcoreapp3.1\Eggs.deps.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 5\Eggs\Eggs\bin\Debug\netcoreapp3.1\Eggs.runtimeconfig.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 5\Eggs\Eggs\bin\Debug\netcoreapp3.1\Eggs.runtimeconfig.dev.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 5\Eggs\Eggs\bin\Debug\netcoreapp3.1\Eggs.dll
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 5\Eggs\Eggs\bin\Debug\netcoreapp3.1\Eggs.pdb
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 5\Eggs\Eggs\obj\Debug\netcoreapp3.1\Eggs.csprojAssemblyReference.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 5\Eggs\Eggs\obj\Debug\netcoreapp3.1\Eggs.AssemblyInfoInputs.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 5\Eggs\Eggs\obj\Debug\netcoreapp3.1\Eggs.AssemblyInfo.cs
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 5\Eggs\Eggs\obj\Debug\netcoreapp3.1\Eggs.csproj.CoreCompileInputs.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 5\Eggs\Eggs\obj\Debug\netcoreapp3.1\Eggs.dll
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 5\Eggs\Eggs\obj\Debug\netcoreapp3.1\Eggs.pdb
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 5\Eggs\Eggs\obj\Debug\netcoreapp3.1\Eggs.genruntimeconfig.cache

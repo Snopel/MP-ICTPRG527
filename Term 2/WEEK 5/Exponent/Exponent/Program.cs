@@ -33,7 +33,7 @@ namespace Exponent
         {
             //Square the passed in value
             int square = num * num;
-            //Return the value as an output
+            //Return the value back to the main method to be used.
             return square;
         }
         

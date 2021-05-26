@@ -1,0 +1,12 @@
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 5\TestMethods\TestMethods\bin\Debug\netcoreapp3.1\TestMethods.exe
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 5\TestMethods\TestMethods\bin\Debug\netcoreapp3.1\TestMethods.deps.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 5\TestMethods\TestMethods\bin\Debug\netcoreapp3.1\TestMethods.runtimeconfig.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 5\TestMethods\TestMethods\bin\Debug\netcoreapp3.1\TestMethods.runtimeconfig.dev.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 5\TestMethods\TestMethods\bin\Debug\netcoreapp3.1\TestMethods.dll
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 5\TestMethods\TestMethods\bin\Debug\netcoreapp3.1\TestMethods.pdb
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 5\TestMethods\TestMethods\obj\Debug\netcoreapp3.1\TestMethods.AssemblyInfoInputs.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 5\TestMethods\TestMethods\obj\Debug\netcoreapp3.1\TestMethods.AssemblyInfo.cs
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 5\TestMethods\TestMethods\obj\Debug\netcoreapp3.1\TestMethods.csproj.CoreCompileInputs.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 5\TestMethods\TestMethods\obj\Debug\netcoreapp3.1\TestMethods.dll
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 5\TestMethods\TestMethods\obj\Debug\netcoreapp3.1\TestMethods.pdb
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 5\TestMethods\TestMethods\obj\Debug\netcoreapp3.1\TestMethods.genruntimeconfig.cache

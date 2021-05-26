@@ -1,0 +1,15 @@
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 6\CalcArea\CalcArea\bin\Debug\CalcArea.exe.config
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 6\CalcArea\CalcArea\bin\Debug\CalcArea.exe
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 6\CalcArea\CalcArea\bin\Debug\CalcArea.pdb
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 6\CalcArea\CalcArea\obj\Debug\CalcArea.csprojAssemblyReference.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 6\CalcArea\CalcArea\obj\Debug\MainWindow.g.cs
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 6\CalcArea\CalcArea\obj\Debug\App.g.cs
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 6\CalcArea\CalcArea\obj\Debug\CalcArea_MarkupCompile.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 6\CalcArea\CalcArea\obj\Debug\CalcArea_MarkupCompile.lref
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 6\CalcArea\CalcArea\obj\Debug\MainWindow.baml
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 6\CalcArea\CalcArea\obj\Debug\CalcArea.g.resources
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 6\CalcArea\CalcArea\obj\Debug\CalcArea.Properties.Resources.resources
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 6\CalcArea\CalcArea\obj\Debug\CalcArea.csproj.GenerateResource.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 6\CalcArea\CalcArea\obj\Debug\CalcArea.csproj.CoreCompileInputs.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 6\CalcArea\CalcArea\obj\Debug\CalcArea.exe
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\WEEK 6\CalcArea\CalcArea\obj\Debug\CalcArea.pdb

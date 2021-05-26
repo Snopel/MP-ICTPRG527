@@ -1,0 +1,13 @@
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\Self Study\NumberConversion\NumberConversion\bin\Debug\netcoreapp3.1\NumberConversion.exe
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\Self Study\NumberConversion\NumberConversion\bin\Debug\netcoreapp3.1\NumberConversion.deps.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\Self Study\NumberConversion\NumberConversion\bin\Debug\netcoreapp3.1\NumberConversion.runtimeconfig.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\Self Study\NumberConversion\NumberConversion\bin\Debug\netcoreapp3.1\NumberConversion.runtimeconfig.dev.json
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\Self Study\NumberConversion\NumberConversion\bin\Debug\netcoreapp3.1\NumberConversion.dll
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\Self Study\NumberConversion\NumberConversion\bin\Debug\netcoreapp3.1\NumberConversion.pdb
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\Self Study\NumberConversion\NumberConversion\obj\Debug\netcoreapp3.1\NumberConversion.csprojAssemblyReference.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\Self Study\NumberConversion\NumberConversion\obj\Debug\netcoreapp3.1\NumberConversion.AssemblyInfoInputs.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\Self Study\NumberConversion\NumberConversion\obj\Debug\netcoreapp3.1\NumberConversion.AssemblyInfo.cs
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\Self Study\NumberConversion\NumberConversion\obj\Debug\netcoreapp3.1\NumberConversion.csproj.CoreCompileInputs.cache
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\Self Study\NumberConversion\NumberConversion\obj\Debug\netcoreapp3.1\NumberConversion.dll
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\Self Study\NumberConversion\NumberConversion\obj\Debug\netcoreapp3.1\NumberConversion.pdb
+D:\TAFE 2021\TERM 2\Programming\source\repos\Term 2\Self Study\NumberConversion\NumberConversion\obj\Debug\netcoreapp3.1\NumberConversion.genruntimeconfig.cache
