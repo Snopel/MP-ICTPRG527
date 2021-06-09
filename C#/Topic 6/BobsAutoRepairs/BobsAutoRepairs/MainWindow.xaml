@@ -1,0 +1,20 @@
+﻿<Window x:Class="BobsAutoRepairs.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BobsAutoRepairs"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <ListBox x:Name="lstTable" HorizontalAlignment="Left" Height="198" Margin="71,162,0,0" VerticalAlignment="Top" Width="644" FontFamily="Courier New"/>
+        <Button x:Name="btnGenerate" Content="Generate" HorizontalAlignment="Left" Margin="585,42,0,0" VerticalAlignment="Top" Width="130" Height="100" Click="btnGenerate_Click"/>
+        <TextBox x:Name="customer" HorizontalAlignment="Left" Height="23" Margin="160,42,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="263"/>
+        <Label x:Name="lblCustomer" Content="Customer" HorizontalAlignment="Left" Margin="71,38,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.478,0.832"/>
+        <TextBox x:Name="partsCost" HorizontalAlignment="Left" Height="23" Margin="160,81,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="lblPartsCost" Content="Cost of Parts" HorizontalAlignment="Left" Margin="71,77,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.478,0.832"/>
+        <TextBox x:Name="labourHrs" HorizontalAlignment="Left" Height="23" Margin="160,120,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="lblLabourHrs" Content="Labour Hours" HorizontalAlignment="Left" Margin="71,116,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.478,0.832"/>
+
+    </Grid>
+</Window>
