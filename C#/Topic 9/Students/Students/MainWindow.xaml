@@ -1,0 +1,20 @@
+﻿<Window x:Class="Students.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Students"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="txtBox" HorizontalAlignment="Left" Height="76" Margin="316,273,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="138"/>
+        <Button x:Name="btnTxt" Content="Display" HorizontalAlignment="Left" Margin="346,231,0,0" VerticalAlignment="Top" Width="85" Click="btnTxt_Click" Height="26"/>
+        <TextBox x:Name="phoneTxt" HorizontalAlignment="Left" Height="23" Margin="358,130,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="phoneTxt_TextChanged"/>
+        <TextBox x:Name="studNoTxt" HorizontalAlignment="Left" Height="23" Margin="358,177,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="studNoTxt_TextChanged"/>
+        <Label Content="Name:" HorizontalAlignment="Left" Margin="297,86,0,0" VerticalAlignment="Top"/>
+        <Label Content="Phone" HorizontalAlignment="Left" Margin="297,127,0,0" VerticalAlignment="Top"/>
+        <Label Content="StudNo" HorizontalAlignment="Left" Margin="297,173,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="nameTxt" HorizontalAlignment="Left" Height="23" Margin="358,86,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="nameTxt_TextChanged"/>
+
+    </Grid>
+</Window>

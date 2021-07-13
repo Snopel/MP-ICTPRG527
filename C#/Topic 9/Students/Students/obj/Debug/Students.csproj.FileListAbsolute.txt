@@ -1,0 +1,15 @@
+C:\Users\nabal\OneDrive\Desktop\TAFE\Programming\MP-ICTPRG527\C#\Topic 9\Students\Students\obj\Debug\Students.csproj.AssemblyReference.cache
+C:\Users\nabal\OneDrive\Desktop\TAFE\Programming\MP-ICTPRG527\C#\Topic 9\Students\Students\obj\Debug\MainWindow.g.cs
+C:\Users\nabal\OneDrive\Desktop\TAFE\Programming\MP-ICTPRG527\C#\Topic 9\Students\Students\obj\Debug\App.g.cs
+C:\Users\nabal\OneDrive\Desktop\TAFE\Programming\MP-ICTPRG527\C#\Topic 9\Students\Students\obj\Debug\Students_MarkupCompile.cache
+C:\Users\nabal\OneDrive\Desktop\TAFE\Programming\MP-ICTPRG527\C#\Topic 9\Students\Students\obj\Debug\Students_MarkupCompile.lref
+C:\Users\nabal\OneDrive\Desktop\TAFE\Programming\MP-ICTPRG527\C#\Topic 9\Students\Students\bin\Debug\Students.exe.config
+C:\Users\nabal\OneDrive\Desktop\TAFE\Programming\MP-ICTPRG527\C#\Topic 9\Students\Students\bin\Debug\Students.exe
+C:\Users\nabal\OneDrive\Desktop\TAFE\Programming\MP-ICTPRG527\C#\Topic 9\Students\Students\bin\Debug\Students.pdb
+C:\Users\nabal\OneDrive\Desktop\TAFE\Programming\MP-ICTPRG527\C#\Topic 9\Students\Students\obj\Debug\MainWindow.baml
+C:\Users\nabal\OneDrive\Desktop\TAFE\Programming\MP-ICTPRG527\C#\Topic 9\Students\Students\obj\Debug\Students.g.resources
+C:\Users\nabal\OneDrive\Desktop\TAFE\Programming\MP-ICTPRG527\C#\Topic 9\Students\Students\obj\Debug\Students.Properties.Resources.resources
+C:\Users\nabal\OneDrive\Desktop\TAFE\Programming\MP-ICTPRG527\C#\Topic 9\Students\Students\obj\Debug\Students.csproj.GenerateResource.cache
+C:\Users\nabal\OneDrive\Desktop\TAFE\Programming\MP-ICTPRG527\C#\Topic 9\Students\Students\obj\Debug\Students.csproj.CoreCompileInputs.cache
+C:\Users\nabal\OneDrive\Desktop\TAFE\Programming\MP-ICTPRG527\C#\Topic 9\Students\Students\obj\Debug\Students.exe
+C:\Users\nabal\OneDrive\Desktop\TAFE\Programming\MP-ICTPRG527\C#\Topic 9\Students\Students\obj\Debug\Students.pdb
