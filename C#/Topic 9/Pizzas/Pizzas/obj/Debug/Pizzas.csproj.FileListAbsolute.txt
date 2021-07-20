@@ -1,0 +1,15 @@
+C:\Users\nabal\source\repos\Pizzas\Pizzas\bin\Debug\Pizzas.exe.config
+C:\Users\nabal\source\repos\Pizzas\Pizzas\bin\Debug\Pizzas.exe
+C:\Users\nabal\source\repos\Pizzas\Pizzas\bin\Debug\Pizzas.pdb
+C:\Users\nabal\source\repos\Pizzas\Pizzas\obj\Debug\Pizzas.csproj.AssemblyReference.cache
+C:\Users\nabal\source\repos\Pizzas\Pizzas\obj\Debug\MainWindow.g.cs
+C:\Users\nabal\source\repos\Pizzas\Pizzas\obj\Debug\App.g.cs
+C:\Users\nabal\source\repos\Pizzas\Pizzas\obj\Debug\Pizzas_MarkupCompile.cache
+C:\Users\nabal\source\repos\Pizzas\Pizzas\obj\Debug\Pizzas_MarkupCompile.lref
+C:\Users\nabal\source\repos\Pizzas\Pizzas\obj\Debug\MainWindow.baml
+C:\Users\nabal\source\repos\Pizzas\Pizzas\obj\Debug\Pizzas.g.resources
+C:\Users\nabal\source\repos\Pizzas\Pizzas\obj\Debug\Pizzas.Properties.Resources.resources
+C:\Users\nabal\source\repos\Pizzas\Pizzas\obj\Debug\Pizzas.csproj.GenerateResource.cache
+C:\Users\nabal\source\repos\Pizzas\Pizzas\obj\Debug\Pizzas.csproj.CoreCompileInputs.cache
+C:\Users\nabal\source\repos\Pizzas\Pizzas\obj\Debug\Pizzas.exe
+C:\Users\nabal\source\repos\Pizzas\Pizzas\obj\Debug\Pizzas.pdb

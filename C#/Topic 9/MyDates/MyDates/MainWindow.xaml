@@ -1,0 +1,20 @@
+﻿<Window x:Class="MyDates.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MyDates"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="dayTxt" HorizontalAlignment="Left" Height="23" Margin="229,102,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="35"/>
+        <TextBox x:Name="monthTxt" HorizontalAlignment="Left" Height="23" Margin="229,154,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="37" RenderTransformOrigin="0.486,0.522"/>
+        <TextBox x:Name="yearTxt" HorizontalAlignment="Left" Height="23" Margin="229,213,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="36"/>
+        <Label Content="Day" HorizontalAlignment="Left" Margin="186,99,0,0" VerticalAlignment="Top"/>
+        <Label Content="Month" HorizontalAlignment="Left" Margin="179,151,0,0" VerticalAlignment="Top"/>
+        <Label Content="Year" HorizontalAlignment="Left" Margin="186,213,0,0" VerticalAlignment="Top"/>
+        <ListBox x:Name="lstBox" HorizontalAlignment="Left" Height="137" Margin="353,99,0,0" VerticalAlignment="Top" Width="226"/>
+        <Button x:Name="submitBtn" Content="Submit" HorizontalAlignment="Left" Margin="341,281,0,0" VerticalAlignment="Top" Width="81" Height="25" Click="submitBtn_Click"/>
+
+    </Grid>
+</Window>
