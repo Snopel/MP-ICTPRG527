@@ -5,22 +5,22 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Exe7D"
         mc:Ignorable="d"
-        Title="MainWindow" Height="485" Width="800">
+        Title="MainWindow" Height="616" Width="800">
     <Grid>
         <Label Content="Name:" HorizontalAlignment="Left" Margin="47,12,0,0" VerticalAlignment="Top"/>
         <TextBox x:Name="nameTxt" HorizontalAlignment="Left" Height="23" Margin="96,15,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
         <Label Content="City:" HorizontalAlignment="Left" Margin="308,12,0,0" VerticalAlignment="Top"/>
-        <ComboBox x:Name="cityCmb" HorizontalAlignment="Left" Margin="346,15,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="cityCmb_SelectionChanged">
-          <ComboBoxItem Content="Melbourne"></ComboBoxItem>
-          <ComboBoxItem Content="Sydney"></ComboBoxItem>
-          <ComboBoxItem Content="Brisbane"></ComboBoxItem>
-          <ComboBoxItem Content="Adelaide"></ComboBoxItem>
-          <ComboBoxItem Content="Perth"></ComboBoxItem>
-          <ComboBoxItem Content="Darwin"></ComboBoxItem>
-          <ComboBoxItem Content="ACT"></ComboBoxItem>
+        <ComboBox x:Name="cityCmb" HorizontalAlignment="Left" Margin="346,15,0,0" VerticalAlignment="Top" Width="120">
+            <ComboBoxItem Content="Melbourne"></ComboBoxItem>
+            <ComboBoxItem Content="Sydney"></ComboBoxItem>
+            <ComboBoxItem Content="Brisbane"></ComboBoxItem>
+            <ComboBoxItem Content="Adelaide"></ComboBoxItem>
+            <ComboBoxItem Content="Perth"></ComboBoxItem>
+            <ComboBoxItem Content="Darwin"></ComboBoxItem>
+            <ComboBoxItem Content="ACT"></ComboBoxItem>
         </ComboBox>
         <Label Content="Computer:" HorizontalAlignment="Left" Margin="525,12,0,0" VerticalAlignment="Top"/>
-        <ComboBox x:Name="compCmb" HorizontalAlignment="Left" Margin="596,16,0,0" VerticalAlignment="Top" Width="163" SelectionChanged="compCmb_SelectionChanged">
+        <ComboBox x:Name="compCmb" HorizontalAlignment="Left" Margin="596,16,0,0" VerticalAlignment="Top" Width="174" SelectionChanged="compCmb_SelectionChanged">
             <ComboBoxItem Content="PolyTech Home ($759.99)"></ComboBoxItem>
             <ComboBoxItem Content="PolyTech Business ($1159.99)"></ComboBoxItem>
             <ComboBoxItem Content="PolyTech Gamer ($1789.99)"></ComboBoxItem>
@@ -28,13 +28,13 @@
         </ComboBox>
 
         <Label Content="Performance Upgrades:" HorizontalAlignment="Left" Margin="47,58,0,0" VerticalAlignment="Top"/>
-        <CheckBox x:Name="chkSSD" Content="500GB Solid State Drive ($178.00)" HorizontalAlignment="Left" Margin="47,89,0,0" VerticalAlignment="Top" Checked="chkSSD_Checked"/>
-        <CheckBox x:Name="chkGPU" Content="8GB Dedicated Graphics Card ($178.00)" HorizontalAlignment="Left" Margin="47,109,0,0" VerticalAlignment="Top" Checked="chkGPU_Checked"/>
-        <CheckBox x:Name="chkScreen" Content="27&quot; LED Monitor ($520.00)" HorizontalAlignment="Left" Margin="47,129,0,0" VerticalAlignment="Top" Checked="chkScreen_Checked"/>
+        <CheckBox x:Name="chkSSD" Content="500GB Solid State Drive ($178.00)" HorizontalAlignment="Left" Margin="47,89,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="chkGPU" Content="8GB Dedicated Graphics Card ($178.00)" HorizontalAlignment="Left" Margin="47,109,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="chkScreen" Content="27&quot; LED Monitor ($520.00)" HorizontalAlignment="Left" Margin="47,129,0,0" VerticalAlignment="Top"/>
         <Label Content="Utilities:" HorizontalAlignment="Left" Margin="353,58,0,0" VerticalAlignment="Top"/>
-        <CheckBox x:Name="chkAssembly" Content="Parts Assembly ($254.50)" HorizontalAlignment="Left" Margin="353,89,0,0" VerticalAlignment="Top" Checked="chkAssembly_Checked"/>
-        <CheckBox x:Name="chkInstall" Content="Windows OS Installation (Requires OEM Disk) ($68.60)" HorizontalAlignment="Left" Margin="353,129,0,0" VerticalAlignment="Top" Checked="chkInstall_Checked"/>
-        <ListBox x:Name="lstReceipt" HorizontalAlignment="Left" Height="203" Margin="47,234,0,0" VerticalAlignment="Top" Width="706" RenderTransformOrigin="0.5,0.5">
+        <CheckBox x:Name="chkAssembly" Content="Parts Assembly ($254.50)" HorizontalAlignment="Left" Margin="353,89,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="chkInstall" Content="Windows OS Installation (Requires OEM Disk) ($68.60)" HorizontalAlignment="Left" Margin="353,129,0,0" VerticalAlignment="Top" IsEnabled="False"/>
+        <ListBox x:Name="lstReceipt" HorizontalAlignment="Left" Height="321" Margin="42,234,0,0" VerticalAlignment="Top" Width="706" RenderTransformOrigin="0.5,0.5" FontFamily="Courier New">
             <ListBox.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform/>
@@ -46,12 +46,12 @@
         </ListBox>
         <Button x:Name="purchaseBtn" Content="Purchase" HorizontalAlignment="Left" Margin="335,177,0,0" VerticalAlignment="Top" Width="110" Height="40" Click="purchaseBtn_Click"/>
         <Label Content="Additional 8GB RAM Modules" HorizontalAlignment="Left" Margin="48,146,0,0" VerticalAlignment="Top"/>
-        <ComboBox x:Name="cmbRAM" HorizontalAlignment="Left" Margin="48,177,0,0" VerticalAlignment="Top" Width="122" SelectionChanged="cmbRAM_SelectionChanged">
+        <ComboBox x:Name="cmbRAM" HorizontalAlignment="Left" Margin="48,177,0,0" VerticalAlignment="Top" Width="122">
             <ComboBoxItem Content="1 Module ($67.45)"></ComboBoxItem>
             <ComboBoxItem Content="2 Modules ($134.90)"></ComboBoxItem>
             <ComboBoxItem Content="3 Modules ($202.35)"></ComboBoxItem>
         </ComboBox>
-        <CheckBox x:Name="chkOSDisk" Content="Windows Operating System OEM Disk ($168.60)" HorizontalAlignment="Left" Margin="353,109,0,0" VerticalAlignment="Top" Checked="chkOSDisk_Checked"/>
+        <CheckBox x:Name="chkOSDisk" Content="Windows Operating System OEM Disk ($168.60)" HorizontalAlignment="Left" Margin="353,109,0,0" VerticalAlignment="Top" Checked="chkOSDisk_Checked" Unchecked="chkOSDisk_Unchecked"/>
 
     </Grid>
 </Window>

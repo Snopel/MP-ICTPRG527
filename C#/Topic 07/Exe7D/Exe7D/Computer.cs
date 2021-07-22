@@ -29,7 +29,7 @@ namespace Exe7D
             ssd = false;
             gpu = false;
             screen = false;
-            ram = 0;
+            ram = -1;
             assembly = false;
             osDisk = false;
             osInstall = false;
