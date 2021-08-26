@@ -1,0 +1,36 @@
+﻿<Window x:Class="BooksDatabase.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BooksDatabase"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="361" Width="589">
+    <Grid>
+        <GroupBox Header="Update" HorizontalAlignment="Left" Height="94" Margin="428,154,0,0" VerticalAlignment="Top" Width="133" FontWeight="Bold"/>
+        <GroupBox Header="Actions" HorizontalAlignment="Left" Height="127" Margin="428,18,0,0" VerticalAlignment="Top" Width="133" FontWeight="Bold"/>
+        <GroupBox Header="Navigation" HorizontalAlignment="Left" Height="78" Margin="24,230,0,0" VerticalAlignment="Top" Width="385" FontWeight="Bold"/>
+        <GroupBox Header="Books" HorizontalAlignment="Left" Height="198" Margin="24,18,0,0" VerticalAlignment="Top" Width="385" FontWeight="Bold"/>
+        <TextBox x:Name="txtBookCode" HorizontalAlignment="Left" Height="23" Margin="114,56,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="37"/>
+        <TextBox x:Name="txtTitle" HorizontalAlignment="Left" Height="23" Margin="114,84,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="228"/>
+        <TextBox x:Name="txtPubCode" HorizontalAlignment="Left" Height="23" Margin="114,119,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="30"/>
+        <TextBox x:Name="txtType" HorizontalAlignment="Left" Height="23" Margin="218,118,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="43"/>
+        <TextBox x:Name="txtPrice" HorizontalAlignment="Left" Height="23" Margin="114,147,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="43"/>
+        <CheckBox x:Name="chkPaperback" Content="Paperback" HorizontalAlignment="Left" Margin="186,154,0,0" VerticalAlignment="Top"/>
+        <Label Content="Book Code" HorizontalAlignment="Left" Margin="46,53,0,0" VerticalAlignment="Top"/>
+        <Label Content="Title" HorizontalAlignment="Left" Margin="77,80,0,0" VerticalAlignment="Top"/>
+        <Label Content="Publisher" HorizontalAlignment="Left" Margin="50,115,0,0" VerticalAlignment="Top"/>
+        <Label Content="Type" HorizontalAlignment="Left" Margin="178,115,0,0" VerticalAlignment="Top"/>
+        <Label Content="Price" HorizontalAlignment="Left" Margin="73,143,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btnFirst" Content="|&lt; First" HorizontalAlignment="Left" Margin="45,265,0,0" VerticalAlignment="Top" Width="75" Click="btnFirst_Click"/>
+        <Button x:Name="btnPrevious" Content="&lt; Previous" HorizontalAlignment="Left" Margin="133,265,0,0" VerticalAlignment="Top" Width="75" Click="btnPrevious_Click"/>
+        <Button x:Name="btnNext" Content="Next &gt;" HorizontalAlignment="Left" Margin="224,265,0,0" VerticalAlignment="Top" Width="75" Click="btnNext_Click"/>
+        <Button x:Name="btnLast" Content="Last &gt;|" HorizontalAlignment="Left" Margin="312,265,0,0" VerticalAlignment="Top" Width="75" Click="btnLast_Click"/>
+        <Button x:Name="btnAdd" Content="Add Book" HorizontalAlignment="Left" Margin="453,49,0,0" VerticalAlignment="Top" Width="84" Click="btnAdd_Click"/>
+        <Button x:Name="btnEdit" Content="Edit Book" HorizontalAlignment="Left" Margin="453,76,0,0" VerticalAlignment="Top" Width="84" Click="btnEdit_Click"/>
+        <Button x:Name="btnDelete" Content="Delete Book" HorizontalAlignment="Left" Margin="453,103,0,0" VerticalAlignment="Top" Width="84" Click="btnDelete_Click"/>
+        <Button x:Name="btnSave" Content="Save" HorizontalAlignment="Left" Margin="453,183,0,0" VerticalAlignment="Top" Width="84" Click="btnSave_Click"/>
+        <Button x:Name="btnCancel" Content="Cancel" HorizontalAlignment="Left" Margin="453,210,0,0" VerticalAlignment="Top" Width="84" Click="btnCancel_Click"/>
+        <Button x:Name="btnPublishers" Content="Books from&#xD;&#xA;this Publisher" HorizontalAlignment="Left" Margin="447,265,0,0" VerticalAlignment="Top" Width="99" Height="38" Click="btnPublishers_Click"/>
+    </Grid>
+</Window>

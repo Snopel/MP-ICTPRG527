@@ -45,10 +45,6 @@ namespace MovieDatabase
                 builder = new OleDbCommandBuilder(daMovie);
                 builder.QuotePrefix = "[";
                 builder.QuoteSuffix = "]";
-
-                //SQL Query to list movies
-                string queryString = "SELECT * FROM movie";
-                daMovie = new OleDbDataAdapter(queryString, database);
                 daMovie.Fill(dsMovie, "movie");
                 //NEW - Calling View Mode method
                 viewMode();
