@@ -10,7 +10,7 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
+using System.Windows.Navigation; 
 using System.Windows.Shapes;
 //Required Libraries
 using System.Data.OleDb;
@@ -206,7 +206,7 @@ namespace BooksDatabase
             DisplayRecord();
         }
 
-        //NEW - Opening the Publishers window
+        //***** NEW - Opening the Publishers window *****
         private void btnPublishers_Click(object sender, RoutedEventArgs e)
         {
             //Setting a variable to pass into the new window's constructor
