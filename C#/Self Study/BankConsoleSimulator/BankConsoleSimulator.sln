@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankConsoleSimulator", "BankConsoleSimulator\BankConsoleSimulator.csproj", "{A526B0F9-13BB-4585-AF70-467F61C69862}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A526B0F9-13BB-4585-AF70-467F61C69862}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A526B0F9-13BB-4585-AF70-467F61C69862}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A526B0F9-13BB-4585-AF70-467F61C69862}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A526B0F9-13BB-4585-AF70-467F61C69862}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31E9A1A8-7910-4970-8157-1EE3698D7C65}
+	EndGlobalSection
+EndGlobal

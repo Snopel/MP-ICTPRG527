@@ -1,0 +1,14 @@
+C:\Users\nabal\OneDrive\Desktop\TAFE\Programming\MP-ICTPRG527\C#\Self Study\BankConsoleSimulator\BankConsoleSimulator\obj\Debug\netcoreapp3.1\BankConsoleSimulator.csproj.AssemblyReference.cache
+C:\Users\nabal\OneDrive\Desktop\TAFE\Programming\MP-ICTPRG527\C#\Self Study\BankConsoleSimulator\BankConsoleSimulator\obj\Debug\netcoreapp3.1\BankConsoleSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nabal\OneDrive\Desktop\TAFE\Programming\MP-ICTPRG527\C#\Self Study\BankConsoleSimulator\BankConsoleSimulator\obj\Debug\netcoreapp3.1\BankConsoleSimulator.AssemblyInfoInputs.cache
+C:\Users\nabal\OneDrive\Desktop\TAFE\Programming\MP-ICTPRG527\C#\Self Study\BankConsoleSimulator\BankConsoleSimulator\obj\Debug\netcoreapp3.1\BankConsoleSimulator.AssemblyInfo.cs
+C:\Users\nabal\OneDrive\Desktop\TAFE\Programming\MP-ICTPRG527\C#\Self Study\BankConsoleSimulator\BankConsoleSimulator\obj\Debug\netcoreapp3.1\BankConsoleSimulator.csproj.CoreCompileInputs.cache
+C:\Users\nabal\OneDrive\Desktop\TAFE\Programming\MP-ICTPRG527\C#\Self Study\BankConsoleSimulator\BankConsoleSimulator\bin\Debug\netcoreapp3.1\BankConsoleSimulator.exe
+C:\Users\nabal\OneDrive\Desktop\TAFE\Programming\MP-ICTPRG527\C#\Self Study\BankConsoleSimulator\BankConsoleSimulator\bin\Debug\netcoreapp3.1\BankConsoleSimulator.deps.json
+C:\Users\nabal\OneDrive\Desktop\TAFE\Programming\MP-ICTPRG527\C#\Self Study\BankConsoleSimulator\BankConsoleSimulator\bin\Debug\netcoreapp3.1\BankConsoleSimulator.runtimeconfig.json
+C:\Users\nabal\OneDrive\Desktop\TAFE\Programming\MP-ICTPRG527\C#\Self Study\BankConsoleSimulator\BankConsoleSimulator\bin\Debug\netcoreapp3.1\BankConsoleSimulator.runtimeconfig.dev.json
+C:\Users\nabal\OneDrive\Desktop\TAFE\Programming\MP-ICTPRG527\C#\Self Study\BankConsoleSimulator\BankConsoleSimulator\bin\Debug\netcoreapp3.1\BankConsoleSimulator.dll
+C:\Users\nabal\OneDrive\Desktop\TAFE\Programming\MP-ICTPRG527\C#\Self Study\BankConsoleSimulator\BankConsoleSimulator\bin\Debug\netcoreapp3.1\BankConsoleSimulator.pdb
+C:\Users\nabal\OneDrive\Desktop\TAFE\Programming\MP-ICTPRG527\C#\Self Study\BankConsoleSimulator\BankConsoleSimulator\obj\Debug\netcoreapp3.1\BankConsoleSimulator.dll
+C:\Users\nabal\OneDrive\Desktop\TAFE\Programming\MP-ICTPRG527\C#\Self Study\BankConsoleSimulator\BankConsoleSimulator\obj\Debug\netcoreapp3.1\BankConsoleSimulator.pdb
+C:\Users\nabal\OneDrive\Desktop\TAFE\Programming\MP-ICTPRG527\C#\Self Study\BankConsoleSimulator\BankConsoleSimulator\obj\Debug\netcoreapp3.1\BankConsoleSimulator.genruntimeconfig.cache
